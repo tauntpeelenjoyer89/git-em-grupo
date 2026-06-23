@@ -3,7 +3,7 @@
 using namespace std;
 
 void saudacao() {
-	cout << "Bem-vindo ao sistema!" << endl;
+	cout << "É us guri do senai tmj" << endl;
 }
 
 int main () {
