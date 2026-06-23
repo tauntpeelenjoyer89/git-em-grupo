@@ -1,11 +1,13 @@
 #include <iostream>
 #include <string>
-
 using namespace std;
 
+void saudacao() {
+	cout << "Bem-vindo ao sistema!" << endl;
+}
+
 int main () {
-	
-	cout << "Projeto em grupo" << endl;
+	saudacao();
 	
 	return 0;
 	
